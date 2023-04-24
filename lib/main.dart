@@ -5,7 +5,7 @@ import 'package:html_read/first.dart';
 void main() {
   runApp(
       MaterialApp(
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner:false,
         home:First(),
       ));
 }
